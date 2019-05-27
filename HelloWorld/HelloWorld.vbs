@@ -7,5 +7,5 @@ else
    msgbox "‚n‚jƒ{ƒ^ƒ“‚ª‰Ÿ‰º‚³‚ê‚Ü‚µ‚½B", vbokonly 
 end if
 
-
+msgbox now(), vbokonly
 
